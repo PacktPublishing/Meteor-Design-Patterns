@@ -1,5 +1,5 @@
 #Meteor Design Patterns
-Supporting material for [Meteor Design Patterns] (https://www.packtpub.com/web-development/meteor-design-patterns?utm_source=github&utm_medium=repository&utm_campaign=9781783987627) (Packtpub Publishing).
+Supporting material for [Meteor Design Patterns] (https://www.packtpub.com/web-development/meteor-design-patterns?utm_source=github&utm_medium=repository&utm_campaign=9781783987627) (Packt Publishing).
 
 This is the code repository for Developing MicrIn order to follow this book, we are going to need to install Meteor version 1.1.0.2 or above and a Unix system such as a Mac or Linux computer 
 
